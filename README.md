@@ -1,0 +1,2 @@
+# simplego
+Go from scratch
